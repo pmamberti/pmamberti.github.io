@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Un sito Hugo Finito</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Un sito Hugo Finito</description>
+    <title>Posts on Piero&#39;s Blog</title>
+    <link>https://blog.pieromamberti.com/posts/</link>
+    <description>Recent content in Posts on Piero&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 16:41:27 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 16:41:27 +0100</lastBuildDate><atom:link href="https://blog.pieromamberti.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <title>Test Post</title>
+      <link>https://blog.pieromamberti.com/posts/my-first-post/</link>
       <pubDate>Fri, 01 Jan 2021 16:41:27 +0100</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>AAAAAAhhh sono finito! Ancora piu finito
+      <guid>https://blog.pieromamberti.com/posts/my-first-post/</guid>
+      <description>Just a test post.
 finito x3 </description>
     </item>
     
