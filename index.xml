@@ -26,5 +26,23 @@
 finito x3 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://blog.pieromamberti.com/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.pieromamberti.com/about/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.pieromamberti.com/about/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.pieromamberti.com/about/cv/</guid>
+      <description>This is placeholder for a formal CV</description>
+    </item>
+    
   </channel>
 </rss>
